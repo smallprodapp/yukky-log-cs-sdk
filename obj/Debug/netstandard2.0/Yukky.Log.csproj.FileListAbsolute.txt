@@ -1,0 +1,9 @@
+C:\Users\Polo\Documents\Projs\Yukky\sdk\log\yukky-log-cs-sdk\bin\Debug\netstandard2.0\Yukky.Log.deps.json
+C:\Users\Polo\Documents\Projs\Yukky\sdk\log\yukky-log-cs-sdk\bin\Debug\netstandard2.0\Yukky.Log.dll
+C:\Users\Polo\Documents\Projs\Yukky\sdk\log\yukky-log-cs-sdk\bin\Debug\netstandard2.0\Yukky.Log.pdb
+C:\Users\Polo\Documents\Projs\Yukky\sdk\log\yukky-log-cs-sdk\obj\Debug\netstandard2.0\Yukky.Log.csprojAssemblyReference.cache
+C:\Users\Polo\Documents\Projs\Yukky\sdk\log\yukky-log-cs-sdk\obj\Debug\netstandard2.0\Yukky.Log.csproj.CoreCompileInputs.cache
+C:\Users\Polo\Documents\Projs\Yukky\sdk\log\yukky-log-cs-sdk\obj\Debug\netstandard2.0\Yukky.Log.AssemblyInfoInputs.cache
+C:\Users\Polo\Documents\Projs\Yukky\sdk\log\yukky-log-cs-sdk\obj\Debug\netstandard2.0\Yukky.Log.AssemblyInfo.cs
+C:\Users\Polo\Documents\Projs\Yukky\sdk\log\yukky-log-cs-sdk\obj\Debug\netstandard2.0\Yukky.Log.dll
+C:\Users\Polo\Documents\Projs\Yukky\sdk\log\yukky-log-cs-sdk\obj\Debug\netstandard2.0\Yukky.Log.pdb
